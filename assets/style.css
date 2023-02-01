@@ -1,4 +1,5 @@
 body {
+    color: white;
     background-color: #73b1c1;
     font-family: 'Times New Roman', Times, serif;
     display: flex;
@@ -33,7 +34,6 @@ aside {
 .history-tabs {
     background-color: #588d9c;
     list-style-type: none;
-    margin: 5px;
     text-align: center;
 }
 
