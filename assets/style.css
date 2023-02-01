@@ -1,0 +1,44 @@
+body {
+    background-color: #73b1c1;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1 {
+    color: white;
+    background-color: #36626a;
+    text-align: center;
+    padding: 10px;
+}
+
+h2 {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+aside {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+}
+
+.weather-box {
+    border: 3px solid white;
+    margin: 10px;
+    padding: 10px;
+}
+
+.history-tabs {
+    background-color: #588d9c;
+    list-style-type: none;
+    margin: 5px;
+    text-align: center;
+}
+
+#submit-button {
+    margin: 10px 0;
+    border:none;
+    background-color: #f1d18a;
+}
