@@ -6,7 +6,7 @@ This application uses a weather api to allow users to input a city of their choo
 
 ## Usage
 
-All the user needs to do is follow the link provided here: , this application is available on any device and browser.
+All the user needs to do is follow the link provided here: https://isaackice.github.io/weather-dashboard-id/, this application is available on any device and browser.
 
 ![weather-dashboard-id](./assets/weather-dashboard-id.png)
 
